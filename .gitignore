@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+tourism/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CatBoost
+notebooks/03_Modeling/catboost_info/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
