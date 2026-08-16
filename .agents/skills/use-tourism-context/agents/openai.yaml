@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tourism Contest Context"
+  short_description: "Review contest rules, purpose, and winner patterns."
+  default_prompt: "Use $use-tourism-context to review this work against the contest context."
