@@ -50,4 +50,5 @@ portfolio/
 .claude/
 .codex/
 .codex_tmp/
+.tmp/
 CLAUDE.md
