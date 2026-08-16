@@ -1,0 +1,4 @@
+interface:
+  display_name: "Use Sigungu Map"
+  short_description: "Join region data to the sigungu boundary geojson for choropleth maps."
+  default_prompt: "Use $use-sigungu-map to prepare region data for a sigungu choropleth map."

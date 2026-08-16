@@ -14,9 +14,6 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# CatBoost
-notebooks/03_Modeling/catboost_info/
-
 # Local configuration and secrets
 .env
 .env.*
@@ -27,3 +24,30 @@ notebooks/03_Modeling/catboost_info/
 Thumbs.db
 .idea/
 .vscode/
+
+# docs
+docs/apply/
+docs/report/
+docs/winner/
+docs/note/
+docs/draft/
+docs/**.hwpx
+
+# Data and outputs files are local-only. Keep the directory structure and documentation.
+/data/**/*
+!/data/**/
+!/data/README.md
+!/data/**/.gitkeep
+outputs/
+
+# Notebooks
+notebooks/03_Classification/260726_CASE1_CASE2_분류모형_local.ipynb
+notebooks/previous/
+
+# personal files
+font/
+portfolio/
+.claude/
+.codex/
+.codex_tmp/
+CLAUDE.md

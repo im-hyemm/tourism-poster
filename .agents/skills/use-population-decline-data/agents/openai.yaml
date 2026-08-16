@@ -1,0 +1,4 @@
+interface:
+  display_name: "Population Decline Regions"
+  short_description: "Interpret and join the population-decline region list."
+  default_prompt: "Use $use-population-decline-data to join and interpret decline-region data."

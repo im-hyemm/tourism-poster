@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visualize Tourism Results"
+  short_description: "Create consistent charts with the project visual system."
+  default_prompt: "Use $visualize-tourism-results to create a consistent tourism-data chart."

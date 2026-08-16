@@ -1,0 +1,4 @@
+interface:
+  display_name: "National Travel Survey"
+  short_description: "Interpret and integrate the 2023–2025 travel surveys."
+  default_prompt: "Use $use-national-travel-survey to work safely with the 2023–2025 survey data."

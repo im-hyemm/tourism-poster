@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Analysis Notebook"
+  short_description: "Create reproducible notebooks with nbformat scripts."
+  default_prompt: "Use $build-analysis-notebook to create a reproducible analysis notebook and its nbformat generation script."
