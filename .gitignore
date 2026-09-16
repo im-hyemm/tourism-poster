@@ -26,12 +26,8 @@ Thumbs.db
 .vscode/
 
 # docs
-docs/apply/
-docs/report/
-docs/winner/
-docs/note/
-docs/draft/
-docs/**.hwpx
+docs/*
+!docs/연고방문객의 관광 전환을 통한 지역관광 활성화 전략.pdf
 
 # Data and outputs files are local-only. Keep the directory structure and documentation.
 /data/**/*
