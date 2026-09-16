@@ -39,6 +39,8 @@ outputs/
 # Notebooks
 notebooks/03_Classification/260726_CASE1_CASE2_분류모형_local.ipynb
 notebooks/previous/
+notebooks/06_Score/previous/
+script/
 
 # personal files
 font/
